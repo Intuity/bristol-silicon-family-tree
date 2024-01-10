@@ -6,7 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: apt install -y graphviz
+    - run: sudo apt update
+    - run: sudo apt install -y graphviz
     - run: make
     - uses: actions/upload-artifact@v3
       with:
