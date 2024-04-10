@@ -8,3 +8,5 @@ involved in the silicon and EDA industry in Bristol, UK. There is a rich
 and complex history to the industry in the city, ideas have developed
 across and throughout the lifespan of these many organisations that 
 continue to flourish to this day.
+
+Presented at BOSS January 2024
